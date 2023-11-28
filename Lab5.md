@@ -1,4 +1,3 @@
-
 # Exploring Docker Volumes with Nginx on Ubuntu
 
 ## Introduction
