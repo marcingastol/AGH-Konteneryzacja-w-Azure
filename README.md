@@ -1,1 +1,0 @@
-# AGH-Konteneryzacja-w-Azure
