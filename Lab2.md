@@ -43,10 +43,21 @@ A Dockerfile is a text document that contains instructions for Docker to build a
    vim Dockerfile 
    ```
    Close file by ESC and :wq!
-
+   
+   ```bash
+   # syntax=docker/dockerfile:1
+   
+   FROM node:18-alpine
+   WORKDIR /app
+   COPY . .
+   RUN yarn install --production
+   CMD ["node", "src/index.js"]
+   EXPOSE 3000
+   ```
+   
    _Opens the 'Dockerfile' in Vim editor for editing. Add necessary Docker instructions here._
 
-3. Display the Dockerfile Contents:
+4. Display the Dockerfile Contents:
    ```bash
    cat Dockerfile
    ```
