@@ -1,3 +1,24 @@
+# Azure Log-in
+
+Go to https://portal.azure.com/
+
+![Alt text](01.png)
+
+![Alt text](02.png)
+
+![Alt text](03.png)
+
+![Alt text](04.png)
+
+![Alt text](05.png)
+
+![Alt text](06.png)
+
+![Alt text](07.png)
+
+![Alt text](08.png)
+
+
 # Virtual Machine Configuration
 
 Go to https://portal.azure.com/
